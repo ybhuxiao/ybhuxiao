@@ -1,4 +1,4 @@
-### 欢迎误打误撞来到我的github 👋
+### Hi There! 👋
 
 我是老胡，是个业余的程序员，对python/java/lua/javascript/c#等都略懂一点儿
 
