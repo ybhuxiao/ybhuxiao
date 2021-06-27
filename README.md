@@ -21,6 +21,8 @@
 5. 个人QQ：376665005（如果是兴趣交流建议通过上面的群，加我QQ的话请尽量言简意赅的直接说事情，不要闲聊，不要问在么，因为，emmm，确实挺忙的，哈哈）
 
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ybhuxiao&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 
 
 <!--
