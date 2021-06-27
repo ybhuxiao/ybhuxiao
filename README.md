@@ -1,10 +1,11 @@
+
 ### Hi There! 👋
 
-我是老胡，是个业余的程序员，对python/java/lua/javascript/c#等都略懂一点儿
+⚡ 我是老胡，是个业余的程序员，对python/java/lua/javascript/c#等都略懂一点儿
 
-喜欢玩的游戏是魔兽世界，并且了解一点点插件开发
+👯 喜欢玩的游戏是魔兽世界，并且了解一点点插件开发
 
-偶尔会在b站【老胡聊聊天】发视频，内容目前以魔兽插件为主
+😄 偶尔会在b站【老胡聊聊天】发视频，内容目前以魔兽插件为主
 
 
 ### 被问的比较多的问题
@@ -21,12 +22,12 @@
 5. 个人QQ：376665005（如果是兴趣交流建议通过上面的群，加我QQ的话请尽量言简意赅的直接说事情，不要闲聊，不要问在么，因为，emmm，确实挺忙的，哈哈）
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ybhuxiao&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
-
 
 <!--
 **ybhuxiao/ybhuxiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ybhuxiao&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 
 Here are some ideas to get you started:
 
