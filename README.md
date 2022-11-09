@@ -1,7 +1,7 @@
 
 ### Hi There! 👋
 
-⚡ 我是老胡，是个业余的程序员，对Python/Java/Lua/Javascript/C#/C++等都略懂一点儿
+⚡ 我是老胡，是个业余的程序员，对Python/Java/Lua/Javascript等都略懂一点儿
 
 
 ### 欢迎通过各种方式联系我：
